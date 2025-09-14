@@ -43,14 +43,13 @@ A Agentic RAG Web UI application built with LangGraph, FastAPI and Streamlit.
 6. 安装依赖包
     ``` bash
     $ pip install -r requirements.txt
+    conda install jupyter
     ```
 
-7. 运行后端（暂时不支持）
+7. 运行jupyter
     ``` bash
-    $ python run_service.py
+   python -m jupyter notebook
     ```
 
-8. 运行前端（暂时不支持）
-    ``` bash
-    $ streamlit run app.py
-    ```
+# Links
+https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2ODUyMTQyNA==&action=getalbum&album_id=3689450339863740420&scene=126&sessionid=1757835856820#wechat_redirect
